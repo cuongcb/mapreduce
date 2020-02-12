@@ -1,4 +1,4 @@
-module github.com/cuongcb/go-fifa19
+module github.com/cuongcb/mapreduce
 
 go 1.13
 
